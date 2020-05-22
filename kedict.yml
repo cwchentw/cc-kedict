@@ -2,13 +2,13 @@
   romaja: ga
   pos: n
   defs:
-    - def: "bound, edge, end, margin, rim, side, verge, brink"
+    - def: "邊，際，旁，邊緣，畔"
 
 - word: 가
   romaja: ga
   pos: part
   defs:
-    - def: "Indicates the subject of a sentence.(Compare with Japanese が)"
+    - def: "表示主詞 (相當於日文的 が)"
       examples: 
         - example: "그렇지만, 내가 펜을 갖고 있을텐데…"
           transliteration: "geureochiman, naega peneul gatgo isseultende…"
@@ -24,15 +24,15 @@
   romaja: ga
   pos: n
   defs:
-    - def: ": family, house"
-    - def: ": price, value"
-    - def: ": falsehood"
+    - def: "家，房子"
+    - def: "價格，價值"
+    - def: "謬誤"
 
 - word: 가
   romaja: ga
   pos: suf
   defs:
-    - def: ": street"
+    - def: "街道"
 
 - word: 가
   romaja: ga
@@ -45,32 +45,32 @@
   romaja: ga
   pos: n
   defs:
-    - def: "la (musical note)"
+    - def: "la (音樂記號)"
 
 - word: 가가우스어
   romaja: gagauseueo
   pos: n
   defs:
-    - def: "The Gagauz language."
+    - def: "加告茲語"
 
 - word: 가감
   romaja: gagam
   pos: n
   defs:
-    - def: "addition and subtraction"
-    - def: "adjustment, increasing and decreasing (a quantity), regulation"
+    - def: "加减"
+    - def: "調整，增減 (數量)"
 
 - word: 가강수량
   romaja: gagangsuryang
   pos: n
   defs:
-    - def: "precipitable water"
+    - def: "可降水量"
 
 - word: 가게
   romaja: gage
   pos: n
   defs:
-    - def: "store, shop"
+    - def: "商店"
       examples: 
         - example: "그는 길을 따라, 그 가게에 이르렀다."
           transliteration: "Geuneun gireul ttara, geu gagee ireureotda."
@@ -83,45 +83,45 @@
   romaja: gagyeok
   pos: n
   defs:
-    - def: "monetary price"
+    - def: "價格"
 
 - word: 가계
   romaja: gagye
   pos: n
   defs:
-    - def: "A family line; bloodline; lineage"
+    - def: "家庭，世系，血統"
 
 - word: 가계
   romaja: gagye
   pos: n
   defs:
-    - def: "household economy; family income and expenditure"
-    - def: "living conditions of a family"
+    - def: "家計，家庭收支情況"
+    - def: "家境"
 
 - word: 가곡
   romaja: gagok
   pos: n
   defs:
-    - def: "song"
-    - def: "melody, tune"
+    - def: "歌曲"
+    - def: "旋律，曲調"
 
 - word: 가공
   romaja: gagong
   pos: n
   defs:
-    - def: "processing; treatment; improvement"
+    - def: "處理，處置，改進"
 
 - word: 가공품
   romaja: gagongpum
   pos: n
   defs:
-    - def: "product"
+    - def: "產品"
 
 - word: 가공하다
   romaja: gagonghada
   pos: v
   defs:
-    - def: "to process or treat; to improve"
+    - def: "處理，處置，改進"
   conj: [가공한다, 가공해, 가공해요, 가공합니다]
 
 - word: 가관
@@ -135,33 +135,33 @@
   romaja: gagu
   pos: n
   defs:
-    - def: "family; household"
+    - def: "家庭"
 
 - word: 가구
   romaja: gagu
   pos: n
   defs:
-    - def: "furniture"
+    - def: "家具"
 
 - word: 가까이
   romaja: gakkai
   pos: adv
   defs:
-    - def: "closely; close together"
+    - def: "靠近地，鄰近地"
 
 - word: 가까이
   romaja: gakkai
   pos: n
   defs:
-    - def: "vicinity, neighborhood"
+    - def: "接近，鄰近"
 
 - word: 가까이하다
   romaja: gakkaihada
   pos: v
   defs:
-    - def: "to get close to; to befriend"
-    - def: "to enjoy"
-    - def: "to approach"
+    - def: "親近，相處密切"
+    - def: "享受"
+    - def: "靠近"
   conj: [가까이한다, 가까이해, 가까이해요, 가까이합니다]
 
 - word: 가깝다
